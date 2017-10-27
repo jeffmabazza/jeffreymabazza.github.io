@@ -401,3 +401,9 @@ section:last-child {
 .keyAttributes li {
 	margin-bottom: 7px;
 }
+
+.cr {
+	color: #fff;
+	margin: margin: -20px 0 5px 0;
+	font-size: 10px;
+}
