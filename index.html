@@ -18,8 +18,8 @@
 <meta name="author" content="Jeffrey Mabazza">
 <meta name="og:title" content="Jeffrey Mabazza">
 <meta name="og:image" content="assets/images/my-pic.png">
-<meta name="description" content="Software Engineer | Web Application Developer | Development & Operations | NuWorks Interactive Labs Inc"/>
-<meta name="og:description" content="Software Engineer | Web Application Developer | Development & Operations | NuWorks Interactive Labs Inc">
+<meta name="description" content="Web Developer | Web Application Developer | Development & Operations | NuWorks Interactive Labs Inc"/>
+<meta name="og:description" content="Web Developer | Web Application Developer | Development & Operations | NuWorks Interactive Labs Inc">
 <meta charset="UTF-8"> 
 
 <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon">
@@ -42,7 +42,7 @@
 		
 		<div id="name">
 			<h1 class="">Jeffrey Mabazza</h1>
-			<h2 class="">Software Engineer</h2>
+			<h2 class="">Web Developer</h2>
 		</div>
 		
 		<div id="contactDetails" class="">
@@ -50,6 +50,8 @@
 				<li><i class="fa fa-at"></i> &nbsp; <a href="mailto:jeffreymabazza@gmail.com" target="_blank">jeffreymabazza@gmail.com</a></li>
 				<li><i class="fa fa-facebook"></i>&nbsp; &nbsp; <a href="https://www.facebook.com/jeffrey.mabazza" target="_blank">jeffrey.mabazza</a></li>
 				<li><i class="fa fa-map-marker"></i>&nbsp; &nbsp; Rodriguez Rizal, Philippines</li>
+				<li><i class="fa fa-map-marker" onclick="foo()"></i>&nbsp; &nbsp; Rodriguez Rizal, Philippines</li>
+
 			</ul>
 		</div>
 		<div class="clear"></div>
@@ -101,7 +103,7 @@
 				<ul class="keySkills">
 					<li><span class="glyphicon glyphicon-share-alt"></span> PHP</li>
 					<li><span class="glyphicon glyphicon-share-alt"></span> CSS</li>
-					<li><span class="glyphicon glyphicon-share-alt"></span> HTML5</li>
+					<li><span class="glyphicon glyphicon-share-alt"></span> HTML</li>
 					<li><span class="glyphicon glyphicon-share-alt"></span> Laravel</li>
 					<li><span class="glyphicon glyphicon-share-alt"></span> CodeIgniter</li>
 					<li><span class="glyphicon glyphicon-share-alt"></span> PHP Unit Testing</li>
@@ -163,7 +165,7 @@
 			
 			<div class="sectionContent">
 				<article>
-					<h2><img class="career-history-company-logo" src="assets/images/logo-company.png"> <span class="career-history-company-name"> Software Engineer at NuWorks Interactive Labs, Inc.</span></h2>
+					<h2><img class="career-history-company-logo" src="assets/images/logo-company.png"> <span class="career-history-company-name"> Web Developer at NuWorks Interactive Labs, Inc.</span></h2>
 					<p class="subDetails">May 2013 - Present</p>
 					<p>Responsible for server-side web application logic and integration of the work that our front-end developers do.</p>
 				</article>
@@ -190,5 +192,15 @@
 	</div>
 </div>
 <center class="cr">&copy; 2017</center>
+
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script type="text/javascript">
+	function foo() {
+		swal("Are you sure you want to do this?", {
+  buttons: ["Oh noez!", "Aww yiss!"],
+});
+	}
+</script>
+
 </body>
 </html>
