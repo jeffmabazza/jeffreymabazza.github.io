@@ -1,19 +1,12 @@
-<div class="container more-container">
-  <h3>Achievements & Seminars</h3>
-  <div class="row clearfix">
-    <div class="col-md-12">
-    	<center>
-      		{{ site.achievements_seminars_content | strip | markdownify }}
-      	</center>
+<div class="container education-container">
+  <h3>{{ Achievements and Seminars }}</h3>
+  {% for seminar in site.data.seminar %}
+    <div class="row clearfix education">
+      <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 left-column">
+        <h4>{{ seminar.name }}</h4>
+        <!-- <p><b>{{ seminar.qualification }}</b></p> -->
+        <p>{{ seminar.dates }}</p>
+      </div>
     </div>
-  </div>
-</div>
-
-<div class="container more-container">
-  <h3>Skills</h3>
-  <div class="row clearfix">
-    <div class="col-md-12">
-      {{ site.more_content | strip | markdownify }}
-    </div>
-  </div>
+  {% endfor %}
 </div>
