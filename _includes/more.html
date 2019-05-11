@@ -1,12 +1,14 @@
 <div class="container education-container">
-  <h3>{{ Achievements and Seminars }}</h3>
+  <h3>Achievements and Seminars</h3>
   {% for seminar in site.data.seminar %}
     <div class="row clearfix education">
-      <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 left-column">
-        <h4>{{ seminar.name }}</h4>
-        <!-- <p><b>{{ seminar.qualification }}</b></p> -->
-        <p>{{ seminar.dates }}</p>
-      </div>
+    	<center>
+	      <div class="col-xs-12 col-sm-12 col-md-12 col-print-12 left-column">
+	        <h4>{{ seminar.name }}</h4>
+	        <!-- <p><b>{{ seminar.qualification }}</b></p> -->
+	        <p>{{ seminar.dates }}</p>
+	      </div>
+      	</center>
     </div>
   {% endfor %}
 </div>
