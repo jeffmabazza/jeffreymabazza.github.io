@@ -2,17 +2,14 @@
 - name: Developers Connect Summit
   dates: 2013, 2015, 2016
   venue: SMX Convention Center
-  description: | # this will include new lines to allow paragraphs
 
 - name: PHP Conference
   dates: 2016
   venue: Makati City
-  description: |
 
 - name: Laravel PH Meetups
   venue: NuWorks Interactive Labs Inc.
   dates: 2017, 2018
-  description: |
 
 - name: Computer Students Society(COMSSO)’s Laravel Tutorial
   venue: University of the East, Manila
@@ -24,4 +21,4 @@
   venue: NuWorks Interactive Labs Inc.
   dates: July 27, 2017
   description: |
-    Speaker (https://phil-it.org.ph/calendar/laravelph-july/)
+    Speaker
