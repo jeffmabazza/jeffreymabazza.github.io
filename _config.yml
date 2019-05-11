@@ -27,13 +27,13 @@ linkedin_username: https://ph.linkedin.com/in/jeffrey-mabazza-06a999112
 about_profile_image: assets/my-pic.png
 about_content: | # this will include new lines to allow paragraphs
   To be able to contribute to the organization with my competencies and at the same time continue to develop myself professionally in the field of web development.
-  
+
   Key Attributes
-    Love and passion for web things
-    Well-versed in Internet and web technologies
-    Can work on multiple projects simultaneously
-    Organized and has a clear development process
-    Team player, always willing to support team efforts
+    - Love and passion for web things
+    - Well-versed in Internet and web technologies
+    - Can work on multiple projects simultaneously
+    - Organized and has a clear development process
+    - Team player, always willing to support team efforts
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
