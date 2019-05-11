@@ -4,10 +4,11 @@
   job_title: PHP Developer
   dates: May 2013 - June 2019
   quote: >
-   Lorem ipsum dolor sit amet.
+   Innovations Agency that provides digital transformation solutions and creates value by building business through creativity, data, and technology.
   description: | # this will include new lines to allow paragraphs
-    asdasd
-
-    asdasd
-
-    asdasd
+    Responsibilities:
+    - Server-side web application logic and front-end integration
+    - Custom CMS development
+    - Setting up different server environments with security measures
+    - Deploying web applications on the server
+    - Maintenance of legacy applications
