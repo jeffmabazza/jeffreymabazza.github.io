@@ -1,8 +1,8 @@
 # Education Template
-- name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+- name: STI College Marikina
+  dates: Date Range (eg. 2008 - 2012)
+  qualification: Bachelor of Science in Information Technology
   quote: >
-    Short institution or course description (optional)
+    Lorem ipsum dolor sit amet. 
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.
