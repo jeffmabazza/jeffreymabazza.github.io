@@ -2,7 +2,7 @@
   <h3>Achievements & Seminars</h3>
   <div class="row clearfix">
     <div class="col-md-12">
-      
+      {{ site.achievements_seminars | strip | markdownify }}
     </div>
   </div>
 </div>
@@ -11,7 +11,7 @@
   <h3>Skills</h3>
   <div class="row clearfix">
     <div class="col-md-12">
-      Test Skill
+      {{ site.more_content | strip | markdownify }}
     </div>
   </div>
 </div>

@@ -50,7 +50,13 @@ more_content: | # this will include new lines to allow paragraphs
   - MySQL
   - Linux
   - Apache
-  - Nginx  
+  - Nginx
+
+# Acheivments and Seminars
+achievements_seminars_content: |
+  LaraCon 2015
+  Laracon 2016
+  Laracon 2017
 
 
 # Footer
