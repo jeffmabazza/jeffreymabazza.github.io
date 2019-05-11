@@ -1,9 +1,9 @@
 # Experience template
-- company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+- company: NuWorks Interactive Labs Inc.
+  link: https://www.nuworks.ph
+  job_title: PHP Developer
+  dates: Date Range (eg. May 2013 - June 2019)
   quote: >
-   Short description of the company (optional)
+   Lorem ipsum dolor sit amet.
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.
