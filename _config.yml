@@ -26,13 +26,14 @@ linkedin_username: https://ph.linkedin.com/in/jeffrey-mabazza-06a999112
 # about_title: About Me (Use this to override about section title)
 about_profile_image: assets/my-pic.png
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - Links
-    - Images
+  To be able to contribute to the organization with my competencies and at the same time continue to develop myself professionally in the field of web development.
+  
+  Key Attributes
+    Love and passion for web things
+    Well-versed in Internet and web technologies
+    Can work on multiple projects simultaneously
+    Organized and has a clear development process
+    Team player, always willing to support team efforts
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
