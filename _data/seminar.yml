@@ -12,4 +12,16 @@
 - name: Laravel PH Meetups
   venue: NuWorks Interactive Labs Inc.
   dates: 2017, 2018
+  description: |
 
+- name: Computer Students Society(COMSSO)’s Laravel Tutorial
+  venue: University of the East, Manila
+  dates: March 2, 2016
+  description: |
+    Guest Speaker
+
+- name: Laravel Advance Repository Pattern
+  venue: NuWorks Interactive Labs Inc.
+  dates: July 27, 2017
+  description: |
+    Speaker (https://phil-it.org.ph/calendar/laravelph-july/)
